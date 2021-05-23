@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <link rel="stylesheet" href="profileStile.css">
+
+    <meta charset="UTF-8">
+    <title>Profile</title>
+</head>
+<body onload="get_messages()">
+<div id="chat">
+    <div id="messages"></div>
+
+    <div id="text">
+        <button  onclick="get_messages()" class="button_text">о</button>
+
+        <input id="input" type="text"/>
+
+        <button class="button_text"onclick="to_server()"></button>
+<button class="button_text" onclick="strelki('вверх')">^</button>
+<button class="button_text" onclick="strelki('вниз')">v</button>
+    </div>
+        <div id="nastroiki"> <!--    Настройки-->
+            <img id="shester" src="imag/images.png" class="nastroiki">
+        </div>
+
+    </div>
+<div id="panel_s_prava">
+    <img class="avacatpanel" src="smiles/avacat.jpg">
+    <label class="inform">Фамилия: Кочура</label>
+
+    <label class="inform">Имя: Максим</label>
+
+    <label class="inform">Дата рождения: 3 октября,2008</label>
+
+
+    <label  class="inform">стиль чата:
+        <select id="color_text">
+            <option style="background: aqua"></option>
+            <option style="background: brown"></option>
+        </select>
+    </label>
+
+    <label class="inform">обои чата</label>
+
+    <div>
+        <img class="obou_chat" src="smiles/avacat.jpg">
+        <img class="obou_chat" src="smiles/avacat.jpg">
+        <img class="obou_chat" src="smiles/avacat.jpg">
+
+
+    </div>
+
+    <label class="inform">фотографии</label>
+    <div>
+        <img class="photos_chat" src="smiles/photo5362029969569590804.jpg">
+        <img class="photos_chat" src="smiles/photo5362029969569590804.jpg">
+        <img class="photos_chat" src="smiles/photo5362029969569590804.jpg">
+
+
+    </div>
+
+
+    <button class="inform">очистить чат</button>
+    <button class="inform">удалить чат</button>
+</div>
+
+<script src="scripts/script.js"></script>
+<script src="scripts/for_msg.js"></script>
+<script src="scripts/panel.js"></script>
+</body>
+</html>

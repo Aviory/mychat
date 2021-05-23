@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4816d00-0ddd-42ab-a379-a35df5fc8308" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1goCKioyz9yDPixuaYCOEOQrTZ2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\untitled\imag" />
+      <recent name="C:\xampp\htdocs\untitled\chat" />
+      <recent name="C:\xampp\htdocs\untitled\calculator" />
+      <recent name="C:\Users\avior\PhpstormProjects\untitled\imag" />
+      <recent name="C:\Users\avior\PhpstormProjects\untitled" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\avior\PhpstormProjects\untitled" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4816d00-0ddd-42ab-a379-a35df5fc8308" name="Default Changelist" comment="" />
+      <created>1598771496286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598771496286</updated>
+      <workItem from="1598771497528" duration="4323000" />
+      <workItem from="1599375655414" duration="4506000" />
+      <workItem from="1599980745957" duration="4096000" />
+      <workItem from="1600359016080" duration="4624000" />
+      <workItem from="1600495489054" duration="5903000" />
+      <workItem from="1600585547875" duration="3808000" />
+      <workItem from="1602400193061" duration="1801000" />
+      <workItem from="1602402007677" duration="1806000" />
+      <workItem from="1603004975052" duration="1880000" />
+      <workItem from="1603006864798" duration="1797000" />
+      <workItem from="1603008674851" duration="1075000" />
+      <workItem from="1603613079696" duration="1798000" />
+      <workItem from="1603614896375" duration="1797000" />
+      <workItem from="1603616708332" duration="1154000" />
+      <workItem from="1604218313245" duration="1795000" />
+      <workItem from="1604220117664" duration="1569000" />
+      <workItem from="1604757666172" duration="1795000" />
+      <workItem from="1604759479074" duration="1794000" />
+      <workItem from="1604761288943" duration="1113000" />
+      <workItem from="1605427793082" duration="1750000" />
+      <workItem from="1605429612752" duration="1753000" />
+      <workItem from="1607241856226" duration="1783000" />
+      <workItem from="1607243664381" duration="1786000" />
+      <workItem from="1607245474543" duration="301000" />
+      <workItem from="1607535766672" duration="1388000" />
+      <workItem from="1607759995239" duration="1783000" />
+      <workItem from="1607761799666" duration="1787000" />
+      <workItem from="1607763609654" duration="444000" />
+      <workItem from="1608464144101" duration="1781000" />
+      <workItem from="1608465953654" duration="2223000" />
+      <workItem from="1609056794402" duration="1786000" />
+      <workItem from="1609058607364" duration="341000" />
+      <workItem from="1609661039932" duration="1718000" />
+      <workItem from="1609662784076" duration="729000" />
+      <workItem from="1610266393736" duration="1781000" />
+      <workItem from="1610268207554" duration="2567000" />
+      <workItem from="1610279845222" duration="27000" />
+      <workItem from="1610289793644" duration="1064000" />
+      <workItem from="1610870664867" duration="1780000" />
+      <workItem from="1610872476339" duration="934000" />
+      <workItem from="1611475875972" duration="1783000" />
+      <workItem from="1611477703950" duration="2912000" />
+      <workItem from="1612004374094" duration="1943000" />
+      <workItem from="1612006356354" duration="1785000" />
+      <workItem from="1612685094537" duration="1821000" />
+      <workItem from="1612686987157" duration="1847000" />
+      <workItem from="1612688882620" duration="790000" />
+      <workItem from="1614499829973" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="987" y="363" key="#PHP" timestamp="1611476176476">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="987" y="363" key="#PHP/-2160.0.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1611476176476" />
+    <state x="1060" y="475" key="FileChooserDialogImpl" timestamp="1614500438848">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1060" y="475" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1614500438848" />
+    <state x="1117" y="644" key="NewPhpFileDialog" timestamp="1614499871619">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1117" y="644" key="NewPhpFileDialog/-2160.0.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1611478918695" />
+    <state x="1117" y="644" key="NewPhpFileDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1614499871619" />
+    <state x="1668" y="499" width="672" height="678" key="search.everywhere.popup" timestamp="1612687500711">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1668" y="499" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1612687500711" />
+  </component>
+</project>

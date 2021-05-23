@@ -1,0 +1,106 @@
+#chat{
+    background: aqua;
+    width: 25%;
+    height: 1000px;
+}
+body{
+    display: flex;
+    justify-content: flex-end;
+}
+#text{
+    height: 45px;
+    width: 100%;
+    background: darkblue;
+    display: flex;
+    justify-content: space-around;
+}
+#messages{
+    background: #747482;
+    width: 100%;
+    height: 65%;
+    display: flex;
+    flex-direction: column;
+}
+#input{
+    width: 90%;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 17px;
+
+}
+.button_text{
+    width: 3%;
+    height: 16px;
+    margin-top: 2px;
+
+}
+.message{
+    margin-left: 50px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.imgava{
+    height:50px;
+    width: auto;
+}
+
+.message_name{
+    color: black;
+
+}
+.smiles{
+    height: 75px;
+}
+.nastroiki{
+    height: 50px;
+    width: 50px;
+    margin-left:20px;
+    margin-top: 30px;
+}
+.Nastroiki_text{
+    height: 30px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+#panel_s_prava{
+    height: 1000px;
+    width: 35%;
+    background: #e396da;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.avacatpanel{
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+    border-radius: 320px;
+    object-fit: cover;
+}
+.inform{
+font-size: 45px;
+margin-top: 25px;
+}
+#color_text{
+    height: 40px;
+    width: 100px;
+
+
+}
+.photos_chat{
+    height: 75px;
+    width: auto;
+    font-size: 45px;
+    margin-top: 25px;
+}
+.obou_chat{
+    height: 75px;
+    width: auto;
+    font-size: 45px;
+    margin-top: 25px;
+}

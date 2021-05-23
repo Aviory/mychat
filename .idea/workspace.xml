@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a0426ec-46be-4401-8e9c-b09d1d662f57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p6PCoaINTlVm8Yrr97rxDq3WXM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\scripts" />
+      <recent name="C:\xampp\htdocs\imag" />
+      <recent name="C:\xampp\htdocs\smiles" />
+      <recent name="C:\xampp\htdocs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a0426ec-46be-4401-8e9c-b09d1d662f57" name="Default Changelist" comment="" />
+      <created>1614500441614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614500441614</updated>
+      <workItem from="1614500443244" duration="1170000" />
+      <workItem from="1614501634954" duration="2370000" />
+      <workItem from="1615104904740" duration="1795000" />
+      <workItem from="1615106728478" duration="1801000" />
+      <workItem from="1615108559431" duration="26000" />
+      <workItem from="1616317440433" duration="1780000" />
+      <workItem from="1616319245912" duration="1654000" />
+      <workItem from="1616915482398" duration="1784000" />
+      <workItem from="1616917300732" duration="1404000" />
+      <workItem from="1617519807483" duration="1780000" />
+      <workItem from="1617521610915" duration="2147000" />
+      <workItem from="1618124691939" duration="1975000" />
+      <workItem from="1618126700173" duration="1542000" />
+      <workItem from="1619334681237" duration="1794000" />
+      <workItem from="1619336500539" duration="1365000" />
+      <workItem from="1620543987577" duration="1780000" />
+      <workItem from="1620545797565" duration="2293000" />
+      <workItem from="1620828301404" duration="605000" />
+      <workItem from="1621148724104" duration="1788000" />
+      <workItem from="1621150550328" duration="2753000" />
+      <workItem from="1621753768671" duration="1780000" />
+      <workItem from="1621755592915" duration="1203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="467" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614500689068">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1010" y="467" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1614500689068" />
+    <state x="1114" y="643" key="NewPhpFileDialog" timestamp="1616916528580">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1114" y="643" key="NewPhpFileDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1616916528580" />
+  </component>
+</project>
